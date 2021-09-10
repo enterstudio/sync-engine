@@ -7,7 +7,7 @@ wsgiref==0.1.2
 git+https://github.com/mhahnenberg/sqlalchemy.git@backport-fix#egg=SQLAlchemy
 pymongo==2.5.2  # For json_util in bson
 dnspython==1.11.1
-boto==2.10.0
+boto==2.39.0
 ipython==1.0.0
 Flask==0.10.1
 freezegun==0.3.7
