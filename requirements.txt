@@ -6,7 +6,7 @@ pytest-xdist==1.13.1
 wsgiref==0.1.2
 git+https://github.com/mhahnenberg/sqlalchemy.git@backport-fix#egg=SQLAlchemy
 pymongo==2.5.2  # For json_util in bson
-dnspython==1.11.1
+dnspython==2.6.0rc1
 boto==2.10.0
 ipython==1.0.0
 Flask==0.10.1
