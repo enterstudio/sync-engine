@@ -33,7 +33,7 @@ pylint==1.5.1
 html2text==2014.9.8
 python-magic==0.4.6
 greenlet==0.4.2
-PyMySQL==0.6.2
+PyMySQL==1.1.1
 click==2.4
 faulthandler==2.3
 pyinstrument==0.12
